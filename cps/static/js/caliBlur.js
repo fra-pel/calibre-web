@@ -396,8 +396,8 @@ $("div.comments").readmore({
     collapsedHeight: 134,
     heightMargin: 45,
     speed: 300,
-    moreLink: '<a href="#">READ MORE</a>',    // ToDo: make translateable
-    lessLink: '<a href="#">READ LESS</a>',    // ToDo: make translateable
+    moreLink: '<a href="#">LEGGI TUTTO</a>',    // ToDo: make translateable
+    lessLink: '<a href="#">LEGGI MENO</a>',    // ToDo: make translateable
 });
 /////////////////////////////////
 //     End of Global Work     //
