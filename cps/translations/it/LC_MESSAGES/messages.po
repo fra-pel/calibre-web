@@ -1565,6 +1565,7 @@ msgstr "Titolo del libro"
 
 #: cps/templates/book_edit.html:57 cps/templates/book_edit.html:258
 #: cps/templates/book_edit.html:276 cps/templates/search_form.html:11
+#: cps/templates/detail.html:94
 msgid "Author"
 msgstr "Autore"
 
